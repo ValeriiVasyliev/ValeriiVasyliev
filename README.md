@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-vvasyliev-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vvasyliev/)](https://www.linkedin.com/in/vvasyliev/)
 [![Telegram](https://img.shields.io/badge/-valeriivasyliev-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@ValeriiVasyliev)](https://web.telegram.org/#/im?p=@ValeriiVasyliev)
 ![RU Stackoverflow reputation](https://img.shields.io/stackexchange/ru.stackoverflow/r/306230?label=reputation&logo=stackoverflow)
-![Wordpress Stackoverflow reputation](https://img.shields.io/stackexchange/wordpress.stackexchange.com/r/146203?label=reputation&logo=stackoverflow)
+![Wordpress Stackoverflow reputation](https://img.shields.io/stackexchange/wordpress.stackexchange.com/r/146203?label=reputation&logo=stackexchange)
 [![Repos](https://badges.pufler.dev/repos/ValeriiVasyliev)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ValeriiVasyliev.ValeriiVasyliev)
 
