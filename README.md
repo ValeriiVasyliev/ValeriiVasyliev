@@ -12,7 +12,7 @@
 
 
 ### Get in touch
-- Reviews and works: https://www.weblancer.net/users/gratta/
+- Reviews and works: http://www.weblancer.net/users/gratta/?affiliate=gratta
 - Personal site: https://gratta.pro/
 - Telegram: https://t.me/ValeriiVasyliev
 - WP.org: https://profiles.wordpress.org/gratta/
