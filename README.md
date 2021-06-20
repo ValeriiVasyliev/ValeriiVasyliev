@@ -13,7 +13,7 @@
 
 ### Get in touch
 - Reviews and works: http://www.weblancer.net/users/gratta/?affiliate=gratta
-- Personal site: [https://gratta.pro/](http://www.gratta.pro/#utm_source=Github&utm_medium=cpc&utm_campaign=github_company)
+- Personal site: [https://gratta.pro/](https://gratta.pro/#utm_source=Github&utm_medium=cpc&utm_campaign=github_company)
 - Telegram: https://t.me/ValeriiVasyliev
 - WP.org: https://profiles.wordpress.org/gratta/
 - RU Stack Overflow: https://ru.stackoverflow.com/users/306230/valerii-vasiliev
