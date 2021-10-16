@@ -8,7 +8,7 @@
 [![Repos](https://badges.pufler.dev/repos/ValeriiVasyliev)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ValeriiVasyliev.ValeriiVasyliev)
 
-<p>I'm Valerii, Full Stack PHP Developer / Wordpress Developer from <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png" width="13"/> <b>Kiev, Ukraine</b>.</p>
+<p>I'm Valerii, Full Stack PHP Developer / WordPress Developer from <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png" width="13"/> <b>Kiev, Ukraine</b>.</p>
 
 
 ### Get in touch
@@ -17,7 +17,7 @@
 - Telegram: https://t.me/ValeriiVasyliev
 - WP.org: https://profiles.wordpress.org/gratta/
 - RU Stack Overflow: https://ru.stackoverflow.com/users/306230/valerii-vasiliev
-- Wordpress Stackexchange: https://wordpress.stackexchange.com/users/146203/valerii-vasiliev
+- WordPress Stackexchange: https://wordpress.stackexchange.com/users/146203/valerii-vasiliev
 
 ### 📈 GitHub Stats
 
