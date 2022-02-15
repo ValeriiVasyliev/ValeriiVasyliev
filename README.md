@@ -21,5 +21,4 @@
 
 ### 📈 GitHub Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=valeriivasyliev&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&hide_title=true&theme=gotham)](https://github.com/ValeriiVasyliev/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriiVasyliev&count_private=true&layout=compact&include_all_commits=true&show_icons=true&hide_title=true&theme=gotham)](https://github.com/ValeriiVasyliev/github-readme-stats)
