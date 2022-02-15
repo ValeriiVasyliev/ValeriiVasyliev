@@ -19,6 +19,5 @@
 - RU Stack Overflow: https://ru.stackoverflow.com/users/306230/valerii-vasiliev
 - WordPress Stackexchange: https://wordpress.stackexchange.com/users/146203/valerii-vasiliev
 
-### 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriiVasyliev&count_private=true&layout=compact&include_all_commits=true&show_icons=true&hide_title=true&theme=gotham)](https://github.com/ValeriiVasyliev/github-readme-stats)
