@@ -8,7 +8,7 @@
 [![Repos](https://badges.pufler.dev/repos/ValeriiVasyliev)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ValeriiVasyliev.ValeriiVasyliev)
 
-<p>I'm Valerii, Full Stack PHP Developer / WordPress Developer based in <b>Ubud, Indonesia</b>.</p>
+<p>I'm Valerii, WordPress/WooCommerce Expert based in <b>Ubud, Indonesia</b>.</p>
 
 
 ### Get in touch
