@@ -8,7 +8,7 @@
 [![Repos](https://badges.pufler.dev/repos/ValeriiVasyliev)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ValeriiVasyliev.ValeriiVasyliev)
 
-<p>I'm Valerii, WordPress/WooCommerce Expert.</p>
+<p>My name is Valerii and I am a WordPress and WooCommerce developer with a specialization in backend development. My focus is on creating high-performance, secure, and scalable websites that meet the needs of my clients. </p>
 
 
 ### Get in touch
