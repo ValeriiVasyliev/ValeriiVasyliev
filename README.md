@@ -8,7 +8,7 @@
 [![Repos](https://badges.pufler.dev/repos/ValeriiVasyliev)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ValeriiVasyliev.ValeriiVasyliev)
 
-<p>I'm Valerii, WordPress/WooCommerce Expert based in <b>Vancouver, Canada</b>.</p>
+<p>I'm Valerii, WordPress/WooCommerce Expert.</p>
 
 
 ### Get in touch
